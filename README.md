@@ -1,0 +1,2 @@
+# Tecnologias
+ Conhecimentos básicos
